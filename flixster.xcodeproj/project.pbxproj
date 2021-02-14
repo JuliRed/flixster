@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B0626B1C25D9BD57006403F7 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0626B1B25D9BD57006403F7 /* MoviesViewController.swift */; };
+		B0626B2425D9E61F006403F7 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0626B2325D9E61F006403F7 /* MovieCell.swift */; };
 		B0C8186225D4BD6300B73898 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C8186125D4BD6300B73898 /* AppDelegate.swift */; };
 		B0C8186425D4BD6300B73898 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0C8186325D4BD6300B73898 /* SceneDelegate.swift */; };
 		B0C8186925D4BD6300B73898 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0C8186725D4BD6300B73898 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		B0626B1B25D9BD57006403F7 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		B0626B2325D9E61F006403F7 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		B0C8185E25D4BD6300B73898 /* flixster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flixster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0C8186125D4BD6300B73898 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0C8186325D4BD6300B73898 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				B0C8186C25D4BD6400B73898 /* LaunchScreen.storyboard */,
 				B0C8186F25D4BD6400B73898 /* Info.plist */,
 				B0626B1B25D9BD57006403F7 /* MoviesViewController.swift */,
+				B0626B2325D9E61F006403F7 /* MovieCell.swift */,
 			);
 			path = flixster;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				B0C8186225D4BD6300B73898 /* AppDelegate.swift in Sources */,
 				B0C8186425D4BD6300B73898 /* SceneDelegate.swift in Sources */,
+				B0626B2425D9E61F006403F7 /* MovieCell.swift in Sources */,
 				B0626B1C25D9BD57006403F7 /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
