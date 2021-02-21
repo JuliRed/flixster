@@ -38,7 +38,7 @@ There was some difficulties configuring the layout of the movies grid.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/JTZzcst1X3.gif" width=250><br>
+<img src="http://g.recordit.co/cYOwfjXNvh.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
